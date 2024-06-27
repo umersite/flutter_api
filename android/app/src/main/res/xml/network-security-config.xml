@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermission="true">
+        <domain includeSubdomains="true">gdnexam.somee.com</domain>
+    </domain-config>
+</network-security-config>
